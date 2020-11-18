@@ -29,3 +29,7 @@ Great learning videos
 Additional sources
 
 * [Grid Search](https://scikit-learn.org/stable/modules/grid_search.html)
+
+
+How to run the code: 
+1. Open Jupyter then runcode from the beginning, this may take time once you have reached the ML code
