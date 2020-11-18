@@ -32,4 +32,4 @@ Additional sources
 
 
 How to run the code: 
-1. Open Jupyter then runcode from the beginning, this may take time once you have reached the ML code
+1. Open Jupyter, then run code from the beginning, this may take time once you have reached the ML code
